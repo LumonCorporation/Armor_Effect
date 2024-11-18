@@ -3,7 +3,7 @@
 <h1> Armor Effect </h1>
 Выдаёт эффект при надевании определённой брони или предмета<br><br>
 
-![Performance](https://cdn.modrinth.com/data/7qv93UCj/images/b16c7a0deb6b7d576a878ddf91c946a4a5f4ab15.png)<br>
+![Performance](https://github.com/LumonCorporation/Armor_Effect/blob/main/files/Armor_Effect.png)<br>
 
 
 
