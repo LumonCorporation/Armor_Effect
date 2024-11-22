@@ -3,7 +3,7 @@
 <h1> Armor Effect </h1>
 Выдаёт эффект при надевании определённой брони или предмета<br><br>
 
-![Performance](https://github.com/LumonCorporation/Armor_Effect/blob/main/files/Armor_Effect.png)<br>
+![Armor_Effect](https://github.com/LumonCorporation/Armor_Effect/blob/main/files/Armor_Effect.png)<br>
 
 
 
@@ -38,3 +38,5 @@
 
 ### Применения
 - Хочется разнообразить игру или сделать свою комбинацию c эффектами, основываясь на датапаке
+
+![Items_Effects](https://github.com/LumonCorporation/Armor_Effect/blob/main/files/Items_Effects.png)
